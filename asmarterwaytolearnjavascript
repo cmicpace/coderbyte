@@ -1,3 +1,6 @@
 //A Smarter Way to Learn JavaScript
 
-var
+//Browser control:  Filling the window with content
+var monkeyWindow = window.open();
+var windowContent = "<h1>Hello World</h1><p>I'm learning to create a popup window, something we all love dearly.</p>"
+monkeyWindow.document.write(windowContent);
