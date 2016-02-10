@@ -1,3 +1,5 @@
+//This is where the code challengers started to get a little difficult, so I thought I would document my progress as I move forward with the JavaScript path.
+
 //Expressions Inside Arrays
 
 //The folks over at Poplar Puzzlers need an array of functions for one of their puzzles. They’ve requested your help in making the array, which they would like to be called puzzlers. The cells of the array should each contain a function, and these functions–well, what they return–are listed here in order. Each function has one parameter. Note input below represents the parameter, and you will need to convert the math formulas to JavaScript:
@@ -9,4 +11,3 @@
 //Use your knowledge of arrays and anonymous function expressions to build this array of functions.
 
 //Note: Use parentheses with your return statements if you’re having trouble with the order of operations.
-
