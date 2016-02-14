@@ -1,11 +1,11 @@
-//SIMPLE ADDING
-//Using the JavaScript language, have the function SimpleAdding(num) add up all the numbers from 1 to num. For the test cases, the parameter num will be any number from 1 to 1000.
+SIMPLE ADDING
+Using the JavaScript language, have the function SimpleAdding(num) add up all the numbers from 1 to num. For the test cases, the parameter num will be any number from 1 to 1000.
 
-//SOLUTION
-//This was probably one of the more straight forward problems I've encountered on Coderbyte (since I'm a beginner, that's nice once and awhile).
-//1. Create a new number variable and set it to 0.
-//2. Build a for loop that starts at 1 (since the problem states to start at one) and exits the loop once i = num.
-//3. Increment the new number variable with each cycle (ie newNum += i)
+SOLUTION
+This was probably one of the more straight forward problems I've encountered on Coderbyte (since I'm a beginner, that's nice once and awhile).
+  1) Create a new number variable and set it to 0.
+  2) Build a for loop that starts at 1 (since the problem states to start at one) and exits the loop once i = num.
+  3) Increment the new number variable with each cycle (ie newNum += i)
 
 function SimpleAdding(num) { 
 
