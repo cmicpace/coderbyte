@@ -1,11 +1,11 @@
-//FIRST FACTORIAL
-//Using the JavaScript language, have the function FirstFactorial(num) take the num parameter being passed and return the factorial of it (ie. if num = 4, return (4 * 3 * 2 * 1)). For the test cases, the range will be between 1 and 18.
+FIRST FACTORIAL
+Using the JavaScript language, have the function FirstFactorial(num) take the num parameter being passed and return the factorial of it (ie. if num = 4, return (4 * 3 * 2 * 1)). For the test cases, the range will be between 1 and 18.
 
-//SOLUTION
-//So this immediately made me realize that I'd need a modified for loop that starts at either the beginning (i = 1) or end (i = num) and works its way up/down. Then I simply multiply my new variable with each loop to get the final number.
-//1) Create a number variable and set to 1
-//2) Build a for loop at either starts at the beginning (1) or end (num)
-//3) Multiple the new number variable by each interation of the loop
+SOLUTION
+So this immediately made me realize that I'd need a modified for loop that starts at either the beginning (i = 1) or end (i = num) and works its way up/down. Then I simply multiply my new variable with each loop to get the final number.
+  1) Create a number variable and set to 1
+  2) Build a for loop at either starts at the beginning (1) or end (num)
+  3) Multiple the new number variable by each interation of the loop
 
 function FirstFactorial(num) { 
   
