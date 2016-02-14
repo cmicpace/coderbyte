@@ -1,20 +1,11 @@
-/****************************************************************************************
-*                                                                                       *
-*   FIRST REVERSE                                                                       *
-*   Using the JavaScript language, have the function FirstReverse(str) take the str     *
-*   parameter being passed and return the string in reversed order.                     *
-*                                                                                       *
-*   SOLUTION                                                                            *
-*   Right now I don't know RegExp, so I'm going to have to code this challenge using    *
-*   a for loop that starts at the end of the string and works its way back to the first *
-*   letter                                                                              *
-*                                                                                       *
-*   STEPS FOR SOLUTION                                                                  *
-*   1) Create an empty string variable                                                  *
-*   2) Build a for loop that runs from the last char in the string to the first         *
-*   3) Add each letter to the new string with each cycle of the loop                    *
-*                                                                                       *
-****************************************************************************************/
+FIRST REVERSE
+Using the JavaScript language, have the function FirstReverse(str) take the str parameter being passed and return the string in reversed order.
+
+SOLUTION
+Right now I don't know RegExp, so I'm going to have to code this challenge using a for loop that starts at the end of the string and works its way back to the first letter                                                                            
+  1) Create an empty string variable
+  2) Build a for loop that runs from the last char in the string to the first
+  3) Add each letter to the new string with each cycle of the loop
 
 function FirstReverse(str) { 
 
