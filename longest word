@@ -1,18 +1,1 @@
 
-/****************************************************************************************
-*                                                                                       *
-*   LONGEST WORD                                                                        *
-*   Using the JavaScript language, have the function LongestWord(sen) take the sen      *
-*   parameter being passed and return the largest word in the string. If there are      *
-*    two or more words that are the same length, return the first word from the string  *
-*    with that length. Ignore punctuation and assume sen will not be empty.             *
-*                                                                                       *
-*   SOLUTION                                                                            *
-*                                                                                       *
-*                                                                                       *
-*   STEPS FOR SOLUTION                                                                  *
-*   1) First split the sentence into a set of arrays using the split() function         *
-*   2) Build a for loop at either starts at the beginning (1) or end (num)              *
-*   3) Multiple the new number variable by each interation of the loop                  *
-*                                                                                       *
-****************************************************************************************/
